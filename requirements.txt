@@ -1,0 +1,11 @@
+torch>=2.1.0
+torchvision
+opencv-python-headless
+einops==0.6.0
+huggingface_hub
+basicsr
+numpy<2
+drct @ git+https://github.com/ming053l/DRCT.git
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
